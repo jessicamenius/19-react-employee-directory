@@ -2,7 +2,7 @@
   "name": "19-homework-react-employee-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jessicamenius.github.io/19-react-employee-directory/"
+  "homepage": "https://jessicamenius.github.io/19-react-employee-directory/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
